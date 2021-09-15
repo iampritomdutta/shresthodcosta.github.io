@@ -25,9 +25,15 @@
 - Media Queries
 */
 
-
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.portfolio{
+  color: inherit;
+  text-decoration: none;
+}
+.portfolio:hover{
+  color: springgreen;
+}
 .container {
   position: relative;
   width: 100%;
